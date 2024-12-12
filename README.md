@@ -28,7 +28,7 @@ This repository combines two related projects focusing on housing price predicti
   - `Feature_Engineering_Ames.ipynb`: Notebook detailing the feature engineering process.
   - `Model_Discovery_and_Tuning.ipynb`: Notebook with model tuning and evaluation steps.
 - **/documentation**:
- - `Model_Discovery_and_Tuning.html`: Html File with model tuning and evaluation steps.
+  - `Model_Discovery_and_Tuning.html`: Html File with model tuning and evaluation steps.
 
 ---
 
